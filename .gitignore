@@ -1,0 +1,9 @@
+# Downloaded by build-windows.sh
+deps/
+models/
+# Build output
+build-win/
+dist/
+# Test fixtures and results
+tests/out/
+__pycache__/
